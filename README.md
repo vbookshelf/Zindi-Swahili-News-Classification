@@ -8,6 +8,9 @@ Please note that I have not cleaned up the code therefore, some code blocks and 
 If you are just starting your machine learning journey, I highly recommend doing the Andrew Ng Deep Learning Specialization.<br>
 https://www.coursera.org/specializations/deep-learning
 
+I've found that competing, contributing, studying the published notebooks and following the discussions on Kaggle is, by far, the best way to learn.<br>
+https://www.kaggle.com/c/titanic
+
 <br>
 
 ## NLP Learning Resources
