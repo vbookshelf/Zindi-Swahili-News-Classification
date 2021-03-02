@@ -5,7 +5,7 @@ Please note that I have not cleaned up the code therefore, some code blocks and 
 
 <br>
 
-If you are just starting your machine learning journey, I highly recommend doing the Andrew Ng deep learning specialization on coursera.<br>
+If you are just starting your machine learning journey, I highly recommend doing the Andrew Ng Deep Learning Specialization.<br>
 https://www.coursera.org/specializations/deep-learning
 
 <br>
