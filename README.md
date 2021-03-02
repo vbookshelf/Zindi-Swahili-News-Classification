@@ -1,6 +1,8 @@
 ## Zindi-Swahili-News-Classification
 A rough Pytorch solution for the Zindi Swahili News Classification Competition
 
+Please note that I have not cleaned up the code therefore, some code blocks and comments may not make sense.
+
 <br>
 
 ## NLP Learning Resources
